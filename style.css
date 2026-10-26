@@ -1282,7 +1282,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    gap: 48px;
+    gap: 20px;
     margin-bottom: 120px;
 }
 
