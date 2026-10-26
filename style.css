@@ -2179,11 +2179,12 @@ justify-content: space-between;
 
 .article-hero-img {
     width: 100%;
-    max-height: 500px;
+    max-height: 800px;
     border-radius: 36px;
     overflow: hidden;
     margin-bottom: 40px;
     background: #FFF2EE;
+    display:block;
 }
 
 .article-hero-img img {
