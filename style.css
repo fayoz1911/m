@@ -79,6 +79,7 @@ body {
     text-align: center;
     color: #ffffff;
     background: linear-gradient(180deg, #FF6B81 0%, #FF738B 100%);
+    margin-bottom: 200px;
 }
 
 .nav {
@@ -412,6 +413,10 @@ body {
 }
 
 @media (max-width: 1024px) {
+    .header{
+         margin-bottom:  150px; 
+    }
+    
     .navigation {
         gap: 20px;
     }
@@ -435,6 +440,11 @@ body {
 }
 
 @media (max-width: 834px) {
+
+    .header{
+         margin-bottom:  100px; 
+    }
+    
     .nav {
         height: 70px;
     }
@@ -504,6 +514,10 @@ body {
 }
 
 @media (max-width: 768px) {
+    .header{
+         margin-bottom:  60px; 
+    }
+    
     .nav {
         height: 70px;
     }
